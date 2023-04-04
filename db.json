@@ -314,7 +314,7 @@
         "vote_average": 6.2,
         "vote_count": 63,
         "name": "No Trailer Available",
-        "key": "",
+        "key": "KQwJ5AM8zns",
         "type": "Trailer"
     },
     {
@@ -336,7 +336,7 @@
         "vote_average": 0,
         "vote_count": 0,
         "name": "No Trailer Available",
-        "key": "",
+        "key": "KQwJ5AM8zns",
         "type": "Trailer"
     },
     {
@@ -495,7 +495,7 @@
         "vote_average": 6,
         "vote_count": 60,
         "name": "No Trailer Available",
-        "key": "",
+        "key": "KQwJ5AM8zns",
         "type": "Trailer"
     },
     {
@@ -514,7 +514,7 @@
         "vote_average": 6.6,
         "vote_count": 5,
         "name": "No Trailer Available",
-        "key": "",
+        "key": "KQwJ5AM8zns",
         "type": "Trailer"
     },
     {
@@ -876,7 +876,7 @@
         "vote_average": 5.3,
         "vote_count": 6,
         "name": "No Trailer Available",
-        "key": "",
+        "key": "KQwJ5AM8zns",
         "type": "Trailer"
     },
     {
@@ -941,7 +941,7 @@
         "vote_average": 4.7,
         "vote_count": 3,
         "name": "No Trailer Available",
-        "key": "",
+        "key": "KQwJ5AM8zns",
         "type": "Trailer"
     },
     {
@@ -1840,7 +1840,7 @@
         "vote_average": 4.9,
         "vote_count": 27,
         "name": "No Trailer Available",
-        "key": "",
+        "key": "KQwJ5AM8zns",
         "site": "YouTube",
         "size": 1080,
         "type": "Trailer"
@@ -1886,7 +1886,7 @@
         "vote_average": 6.4,
         "vote_count": 40,
         "name": "No Trailer Available",
-        "key": "",
+        "key": "KQwJ5AM8zns",
         "site": "YouTube",
         "size": 1080,
         "type": "Trailer"
@@ -2059,7 +2059,7 @@
         "vote_average": 7.5,
         "vote_count": 34,
         "name": "No Trailer Available",
-        "key": "",
+        "key": "KQwJ5AM8zns",
         "site": "YouTube",
         "size": 1080,
         "type": "Trailer"
@@ -2158,7 +2158,12 @@
         "title": "Mummies",
         "video": false,
         "vote_average": 6.4,
-        "vote_count": 34
+        "vote_count": 34,
+        "name": "Official Trailer 2",
+        "key": "X6rNGDAiFjQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer"
     },
     {
         "adult": false,
@@ -2178,7 +2183,12 @@
         "title": "Ghosts of the Ozarks",
         "video": false,
         "vote_average": 6.3,
-        "vote_count": 15
+        "vote_count": 15,
+        "name": "UK Trailer",
+        "key": "H5B7LjXSSS0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer"
     },
     {
         "adult": false,
@@ -2198,7 +2208,12 @@
         "title": "Magic Mike's Last Dance",
         "video": false,
         "vote_average": 7.2,
-        "vote_count": 190
+        "vote_count": 190,
+        "name": "Official Trailer",
+        "key": "pBIGdw-BRxw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer"
     },
     {
         "adult": false,
@@ -2218,7 +2233,12 @@
         "title": "Jurassic World Dominion",
         "video": false,
         "vote_average": 6.9,
-        "vote_count": 4613
+        "vote_count": 4613,
+        "name": "Official Trailer [4K]",
+        "key": "UtxAPXT4174",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer"
     },
     {
         "adult": false,
@@ -2238,7 +2258,12 @@
         "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
         "video": false,
         "vote_average": 7.1,
-        "vote_count": 9427
+        "vote_count": 9427,
+        "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) Trailer",
+        "key": "3mKPrxjwF7A",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer"
     },
     {
         "adult": false,
@@ -2258,7 +2283,12 @@
         "title": "Fast X",
         "video": false,
         "vote_average": 0,
-        "vote_count": 0
+        "vote_count": 0,
+        "name": "Official Trailer",
+        "key": "32RAq6JzY-w",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer"
     },
     {
         "adult": false,
@@ -2278,7 +2308,12 @@
         "title": "Smile",
         "video": false,
         "vote_average": 6.8,
-        "vote_count": 1781
+        "vote_count": 1781,
+        "name": "Final Trailer",
+        "key": "-8d987Wtkxs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer"
     },
     {
         "adult": false,
@@ -2298,7 +2333,12 @@
         "title": "Demon Slayer: Kimetsu no Yaiba Sibling's Bond",
         "video": false,
         "vote_average": 8,
-        "vote_count": 75
+        "vote_count": 75,
+        "name": "No Trailer Available",
+        "key": "KQwJ5AM8zns",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer"
     },
     {
         "adult": false,
